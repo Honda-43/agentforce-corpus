@@ -1,6 +1,6 @@
 {
  "version": "v1",
- "frozen": false,
+ "frozen": true,
  "built": "2026-09-21",
  "companies": 60,
  "pages": 240,
