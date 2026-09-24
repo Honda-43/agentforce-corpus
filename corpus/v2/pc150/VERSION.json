@@ -1,0 +1,14 @@
+{
+ "version": "v2",
+ "alias": "pc150",
+ "frozen": false,
+ "built": "2026-09-24T11:42:55+09:00",
+ "source": "seed_v0.3/corpus_v2/pc150/facts.json",
+ "pages": 211,
+ "industry": 9,
+ "media": 15,
+ "companies": 60,
+ "company_pages": 180,
+ "self": 5,
+ "base_url": "https://honda-43.github.io/agentforce-corpus/corpus/v2/pc150"
+}
